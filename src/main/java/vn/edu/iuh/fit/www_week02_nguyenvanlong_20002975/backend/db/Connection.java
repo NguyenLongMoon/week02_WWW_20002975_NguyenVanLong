@@ -9,7 +9,7 @@ public class Connection {
     private static Connection connection;
 
     private Connection() {
-        EntityManagerFactory emf = Persistence.createEntityManagerFactory("week02_lab_HaAnhThao_20001575_BE");
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("www02_WWW_20002975_NguyenVanLong");
         em = emf.createEntityManager();
     }
 
