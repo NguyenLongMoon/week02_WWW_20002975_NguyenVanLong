@@ -5,55 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="763d77e0-52c6-4acb-aca3-39944e664be9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/configs/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/db/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/enums/EmployeeStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/enums/ProductStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/models/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/models/CartDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/models/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/models/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/models/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/models/OrderDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/models/ProductImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/models/ProductPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/models/StatisticDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/repositories/CRUDRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/repositories/CartDetailRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/repositories/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/repositories/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/repositories/OrderDetailRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/repositories/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/repositories/ProductImageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/repositories/ProductPriceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/repositories/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/repositories/StatisticRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/resources/CartDetailResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/resources/CustomerResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/resources/EmployeeResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/resources/OrderDetailResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/resources/OrderResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/resources/ProductImageResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/resources/ProductPriceResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/resources/ProductResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975/backend/resources/StatisticResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/components/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,12 +24,24 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2W7rkQEFzPFGjqUZ3KhQk76HhFa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -83,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/nguye/Downloads/TaiLieuKi1Nam4/MonWWW/NguyenVanLong-week01-20002975/WWW_Week02_NguyenVanLong_20002975/src/main/java/vn/edu/iuh/fit/www_week02_nguyenvanlong_20002975",
+    "last_opened_file_path": "C:/Users/nguye/Downloads/TaiLieuKi1Nam4/MonWWW/week02_WWW_20002975_NguyenVanLong/src/main/webapp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nguye\Downloads\TaiLieuKi1Nam4\MonWWW\week02_WWW_20002975_NguyenVanLong\src\main\webapp" />
       <recent name="C:\Users\nguye\Downloads\TaiLieuKi1Nam4\MonWWW\NguyenVanLong-week01-20002975\WWW_Week02_NguyenVanLong_20002975\src\main\java\vn\edu\iuh\fit\www_week02_nguyenvanlong_20002975" />
     </key>
   </component>
@@ -195,6 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696094603382</updated>
       <workItem from="1696094604332" duration="391000" />
+      <workItem from="1701357959736" duration="944000" />
     </task>
     <servers />
   </component>
