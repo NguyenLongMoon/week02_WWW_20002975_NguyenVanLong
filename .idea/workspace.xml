@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="763d77e0-52c6-4acb-aca3-39944e664be9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/cart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/dashboard.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/toast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/notFound.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/product.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/alternate_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/shopping-cart.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696094603382</updated>
       <workItem from="1696094604332" duration="391000" />
-      <workItem from="1701357959736" duration="2685000" />
+      <workItem from="1701357959736" duration="3272000" />
     </task>
     <task id="LOCAL-00001" summary="bo sung component">
       <option name="closed" value="true" />
@@ -178,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701358932089</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bo sung file js va cac file jsp">
+      <option name="closed" value="true" />
+      <created>1701360773177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701360773177</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +188,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bo sung component" />
-    <option name="LAST_COMMIT_MESSAGE" value="bo sung component" />
+    <MESSAGE value="bo sung file js va cac file jsp" />
+    <option name="LAST_COMMIT_MESSAGE" value="bo sung file js va cac file jsp" />
   </component>
 </project>
