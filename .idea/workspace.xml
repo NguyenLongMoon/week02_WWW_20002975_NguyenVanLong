@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="763d77e0-52c6-4acb-aca3-39944e664be9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/alternate_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/shopping-cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/nguye/Downloads/TaiLieuKi1Nam4/MonWWW/week02_WWW_20002975_NguyenVanLong/src/main/webapp",
+    "last_opened_file_path": "C:/Users/nguye/Downloads/TaiLieuKi1Nam4/MonWWW/week02_WWW_20002975_NguyenVanLong/src/main/webapp/css",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +59,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nguye\Downloads\TaiLieuKi1Nam4\MonWWW\week02_WWW_20002975_NguyenVanLong\src\main\webapp\css" />
       <recent name="C:\Users\nguye\Downloads\TaiLieuKi1Nam4\MonWWW\week02_WWW_20002975_NguyenVanLong\src\main\webapp" />
       <recent name="C:\Users\nguye\Downloads\TaiLieuKi1Nam4\MonWWW\NguyenVanLong-week01-20002975\WWW_Week02_NguyenVanLong_20002975\src\main\java\vn\edu\iuh\fit\www_week02_nguyenvanlong_20002975" />
     </key>
@@ -162,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696094603382</updated>
       <workItem from="1696094604332" duration="391000" />
-      <workItem from="1701357959736" duration="3272000" />
+      <workItem from="1701357959736" duration="3451000" />
     </task>
     <task id="LOCAL-00001" summary="bo sung component">
       <option name="closed" value="true" />
@@ -180,7 +180,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701360773177</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="bo sung images">
+      <option name="closed" value="true" />
+      <created>1701361323878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701361323878</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cap nhat login va notFound css">
+      <option name="closed" value="true" />
+      <created>1701361440684</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701361440684</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +205,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bo sung component" />
     <MESSAGE value="bo sung file js va cac file jsp" />
-    <option name="LAST_COMMIT_MESSAGE" value="bo sung file js va cac file jsp" />
+    <MESSAGE value="bo sung images" />
+    <MESSAGE value="cap nhat login va notFound css" />
+    <option name="LAST_COMMIT_MESSAGE" value="cap nhat login va notFound css" />
   </component>
 </project>
